@@ -1,4 +1,4 @@
-# bootcamp-modulo09
+# bootcamp-modulo10
 <h1>GoBarber Mobile</h1>
 <p>Criação da parte Mobile da aplicação GoBarber, que consiste na realização de agendamentos de acordo com os prestadores que estão cadastrados na aplicação.</p>
 <p>Principais bibliotecas utilizadas:</p>
